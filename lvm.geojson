@@ -1,5 +1,8 @@
 {
-   "type":"FeatureCollection",
+  "layer_name": "LVM vietas",
+  "layer_group": "Info",
+  "layer_type": "info",
+  "type":"FeatureCollection",
    "features":[
       {
          "type":"Feature",
