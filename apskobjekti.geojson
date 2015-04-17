@@ -1,0 +1,776 @@
+{
+  "layer_name": "Apskates objekti",
+  "layer_group": "Info ",
+  "layer_type": "info",
+   "type":"FeatureCollection",
+   "features":[
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.380465967275313,
+               56.66807240621466
+            ]
+         },
+         "properties":{
+            "_OBJECTID":1,
+            "Nosaukums":"Arhitektūras piemineklis Dunalkas barona kapenes",
+            "_ICON":1,
+            "Apraksts":"Kultūras piemineklis"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               22.394389270334784,
+               56.90585938859556
+            ]
+         },
+         "properties":{
+            "_OBJECTID":2,
+            "Nosaukums":"Apskates objekts \"Bezdibenis\"  (taka)",
+            "_ICON":1,
+            "Apraksts":"Purva ezers ar ierīkotu piekļūšanas taku pa uzstādītām koka laipām, komplekts ar galdu un soliem"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               22.696753261223876,
+               56.737012012043465
+            ]
+         },
+         "properties":{
+            "_OBJECTID":3,
+            "Nosaukums":"Atpūtas vieta Remtes parkā",
+            "_ICON":1,
+            "Apraksts":"Parks ar pastaigu takām, kultūrvēsturiski apskates objekti"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.495378834814005,
+               56.35811395278921
+            ]
+         },
+         "properties":{
+            "_OBJECTID":4,
+            "Nosaukums":"Kalētu dendroloģiskais stādījums",
+            "_ICON":1,
+            "Apraksts":"Dabas takas, bērnu rotaļu, atpūtas laukums "
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.72275721410432,
+               56.33236289691581
+            ]
+         },
+         "properties":{
+            "_OBJECTID":5,
+            "Nosaukums":"Aizvīķu meža parks",
+            "_ICON":1,
+            "Apraksts":"Pastaigu takas, koku skulptūras"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.870204065352368,
+               57.28884078691061
+            ]
+         },
+         "properties":{
+            "_OBJECTID":6,
+            "Nosaukums":"Zūru briedis",
+            "_ICON":1,
+            "Apraksts":"Piemineklis"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.330262612709646,
+               55.87320115311678
+            ]
+         },
+         "properties":{
+            "_OBJECTID":7,
+            "Nosaukums":"Egļukalna skatu tornis",
+            "_ICON":1,
+            "Apraksts":"Uzkāp 24,6 m augstajā Egļukalna skatu tornī, no kura Latgales meži un ezeri atklājas visā to krāšņumā. Atpūties labiekārtotā piknika vietā"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.343100524469946,
+               55.900164075702094
+            ]
+         },
+         "properties":{
+            "_OBJECTID":8,
+            "Nosaukums":"Sudmaļu pilskalns",
+            "_ICON":1,
+            "Apraksts":"Aizsargājamo ainavu apvidus teritorijā neliels terasveidīgs pilskalns ar atpazīstamām terasēm visapkārt"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               27.11828391944465,
+               56.08355205972725
+            ]
+         },
+         "properties":{
+            "_OBJECTID":9,
+            "Nosaukums":"Čertoks-Velnezers",
+            "_ICON":1,
+            "Apraksts":"Dabas liegums - Čertoka ezers at skaistu skatu uz unikāli zaļo ezera atspulgu un atpūšanās iespējas pie Jazinkas ezera"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               27.145689404128973,
+               55.89263817333216
+            ]
+         },
+         "properties":{
+            "_OBJECTID":10,
+            "Nosaukums":"Priedaines skatu tornis",
+            "_ICON":1,
+            "Apraksts":"Uzkāp 32 m augstajā Priedaines skatu tornī, kas ir viens no augstākajiem koka torņiem Latvijā. Tajā tu jutīsies kā putns virs Daugavas lokiem. Atpūties labiekārtotā piknika vietā ar iespēju iekurt ugunskuru."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               27.030266480358534,
+               56.21542020964847
+            ]
+         },
+         "properties":{
+            "_OBJECTID":11,
+            "Nosaukums":"Rušenicas pilskalns",
+            "_ICON":1,
+            "Apraksts":"Terasveidīgs ainavisks pilskalns daļā ezera ieskāvumā, piekļūšana tuvākajā posmā kā gājējiem"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               24.42781026145616,
+               57.468276021929796
+            ]
+         },
+         "properties":{
+            "_OBJECTID":12,
+            "Nosaukums":"Liepupes pilskalns",
+            "_ICON":1,
+            "Apraksts":"Liepupes pilskalns atrodas Liepupes kreisajā krastā tikai 3 kilometru attālumā no tagadējā jūras krasta. Arheoloģiskie izrakumi pagaidām tur nav notikuši, taču pastāv pieņēmums, ka 12. gadsimtā te varētu būt bijusi Metsepoles novada lībiešu centrālā pils."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.012046316944293,
+               57.51446109253601
+            ]
+         },
+         "properties":{
+            "_OBJECTID":13,
+            "Nosaukums":"Augstrozes pilsdrupas",
+            "_ICON":1,
+            "Apraksts":"Augstrozes pilskalnā redzamās pilsdrupas ir 1272. gadā celtās Rīgas arhibīskapa vasaļa pils atliekas. Pils celta uz augstienes, ar domu, ka kalna stāvās malas būs kā aizsardzība. 1601. g. pili izlaupījuši un izdedzinājuši poļi un tatāri. Pils vēlāk nav atjaunota. Pils sienā iemūrēta kāda jauna meita. Lielskungs devis tai dzert saldu vīnu. No vīna tā apdullusi un tikusi iemūrēta pils sienā. Trīs dienas un trīs naktis bijusi dzirdama viņas gaudošana. Tagad pils vairs nav grimusi. Tā kā iemūrētās vārds bijis Roze, tad arī pils nosaukta par Augsto Rozi."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.230464851081706,
+               57.55337032417685
+            ]
+         },
+         "properties":{
+            "_OBJECTID":14,
+            "Nosaukums":"Zilaiskalns",
+            "_ICON":1,
+            "Apraksts":"Šis ir slavenākais no Latvijas Zilajiem kalniem, un to apvij sentnes un burvestību gaisotne. Kaut arī līdz  šim pieņēmums, ka šī ir bijusi senlatviešu svētvieta, faktisku un neapstrīdamu apstiprinājumu nav guvis, daudzās teikas, nostāsti un kultūrvēsturisko objektu koncentrācija kalna apkārtnē liecina par Zilā kalna nozīmīgo lomu. Arī Andreja Pumpura eposā “Lāčplēsis” šis kalns ticis minēts kā visas tautas pulcēšanās vieta, ar to saistās arī tautā zināmās dziednieces Zilākalna Martas vārds."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.16429500205072,
+               57.74420469739778
+            ]
+         },
+         "properties":{
+            "_OBJECTID":15,
+            "Nosaukums":"Bauņu parks",
+            "_ICON":1,
+            "Apraksts":"Bauņu parku, ko veido Eiropas lapegļu, Veimuta priežu un dažādu citu koku un krūmu stādījumi, veidojis viens no Bauņu muižas īpašniekiem Jakobs Johans fon Zīverss. Parkā daļēji saglabājušies ūdens kanāli un mākslīgi veidotais reljefs, kā arī atrodas Bauņu akmens un Katrīnas sēdeklis. Bauņu parkam ir aizsargājamā dendroloģiskā stādījuma statuss."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               22.92493291888303,
+               56.57892357213484
+            ]
+         },
+         "properties":{
+            "_OBJECTID":16,
+            "Nosaukums":"Īles bunkurs - piemiņas vieta",
+            "_ICON":1,
+            "Apraksts":"Piemiņas vieta. Atjaunots Īles bunkurs – Baltijā lielākā nacionālo partizāņu ziemas mītne. Katru gadu 17. martā šeit notiek piemiņas pasākums 1949. gada 17. marta kaujā kritušo nacionālo partizānu atcerei."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               22.04137266093437,
+               57.280103856056996
+            ]
+         },
+         "properties":{
+            "_OBJECTID":17,
+            "Nosaukums":"Ugāles parks",
+            "_ICON":1,
+            "Apraksts":"Parks, pilskalns un baronu kapi"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               22.475679717636524,
+               57.609575617685834
+            ]
+         },
+         "properties":{
+            "_OBJECTID":18,
+            "Nosaukums":"Zilokalnu avots",
+            "_ICON":1,
+            "Apraksts":"Avots"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               22.69666520566477,
+               57.4237846784136
+            ]
+         },
+         "properties":{
+            "_OBJECTID":19,
+            "Nosaukums":"Bīlavu velna laiva",
+            "_ICON":1,
+            "Apraksts":"Seno skandināvu apbedījumu vieta"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.769543575260798,
+               57.38229752217944
+            ]
+         },
+         "properties":{
+            "_OBJECTID":20,
+            "Nosaukums":"Grīžu velna beņķis",
+            "_ICON":1,
+            "Apraksts":"Atpūtas vieta pie dižakmens"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.6142097916009,
+               57.458517326127776
+            ]
+         },
+         "properties":{
+            "_OBJECTID":21,
+            "Nosaukums":"Staldzenes stāvkrasts",
+            "_ICON":1,
+            "Apraksts":"Stāvkrasts"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               22.21590365870992,
+               57.21080362700161
+            ]
+         },
+         "properties":{
+            "_OBJECTID":22,
+            "Nosaukums":"Ūdrkalna skatu tornis",
+            "_ICON":1,
+            "Apraksts":"Uzkāp 26,5 m augstajā skatu tornī, no kura paveras romantisks skats uz Usmas ezera zilajiem ūdeņiem un tā apkārtni."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.41987993508667,
+               56.63862632357791
+            ]
+         },
+         "properties":{
+            "_OBJECTID":23,
+            "Nosaukums":"Kokneses parks",
+            "_ICON":1,
+            "Apraksts":"Dabas piemineklis, vieta, kur kādreiz atradusies Hanzas pilsēta"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.053937758117513,
+               56.617455969694845
+            ]
+         },
+         "properties":{
+            "_OBJECTID":24,
+            "Nosaukums":"Skrīveru dendrārijs",
+            "_ICON":1,
+            "Apraksts":"16,9ha liels dedroloģiskais parks ar divām terasēm un takām"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.260979370828466,
+               56.4861147269209
+            ]
+         },
+         "properties":{
+            "_OBJECTID":25,
+            "Nosaukums":"Ellītes sēravots",
+            "_ICON":1,
+            "Apraksts":"Stāvlaukums mašīnām. Taka aizved pie sēravota"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               24.278867406239783,
+               56.51444851558051
+            ]
+         },
+         "properties":{
+            "_OBJECTID":26,
+            "Nosaukums":"Mācību taka",
+            "_ICON":1,
+            "Apraksts":"Mācību takas sākums ar stendu"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               22.925137978211126,
+               56.75456815752824
+            ]
+         },
+         "properties":{
+            "_OBJECTID":27,
+            "Nosaukums":"Jaunpils Elles kalns",
+            "_ICON":1,
+            "Apraksts":"Elles kalns ar savām 30 m garajām pazemes ejām, kas pārsegtas ar mūrētām mucveida laukakmeņu velvēm, visos laikos bijusi populāra atpūtas vieta. Atpūties koka lapenē ar galdu un soliem vai kurini ugunskuru tam paredzētajā vietā."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.01524829326081,
+               56.18869942015135
+            ]
+         },
+         "properties":{
+            "_OBJECTID":28,
+            "Nosaukums":"Papes dabas parks",
+            "_ICON":1,
+            "Apraksts":"Dodies pastaigā pa Papes dabas parku un uzkāp putnu vērošanas tornī."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               23.657434642695364,
+               56.865354581848635
+            ]
+         },
+         "properties":{
+            "_OBJECTID":29,
+            "Nosaukums":"Ložmetējkalns",
+            "_ICON":1,
+            "Apraksts":"Uzkāp 27 m augstajā Ložmetējkalna skatu tornī, no kura paveras panorāmas skats uz vietām, kur I Pasaules karā cīnījās latviešu strēlnieku pulki. Atpūties labiekārtotā piknika vietā ar iespēju iekurt ugunskuru."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.901034963000654,
+               57.4097573999058
+            ]
+         },
+         "properties":{
+            "_OBJECTID":30,
+            "Nosaukums":"Cērtenes pilskalns",
+            "_ICON":1,
+            "Apraksts":"Kultūrvēsture - Cērtenes pilskalns. ierīkotas trepes uzkāpšanai, kalna pakājē piknika vieta."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.952820523273317,
+               57.40364000196024
+            ]
+         },
+         "properties":{
+            "_OBJECTID":31,
+            "Nosaukums":"Silvas dendrārijs",
+            "_ICON":1,
+            "Apraksts":"Silvas Denrārijs."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               24.63911252606755,
+               57.12691876243207
+            ]
+         },
+         "properties":{
+            "_OBJECTID":32,
+            "Nosaukums":"Inčukalna velnala",
+            "_ICON":1,
+            "Apraksts":"Velnala kopā ar Stalšēnupīti un Auksto dīķi veido gan unikālu ģeoloģisko, gan vēsturisku kulta/tūrisma objektu. Ggeocaching punkts."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               24.68624901458901,
+               56.38982485665201
+            ]
+         },
+         "properties":{
+            "_OBJECTID":33,
+            "Nosaukums":"Skaistkalnes karsta kritenes",
+            "_ICON":1,
+            "Apraksts":"Teritorija Latvijā ,kurā var novērot dažāda veida karsta procesus"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               22.357638341356676,
+               57.50899228157846
+            ]
+         },
+         "properties":{
+            "_OBJECTID":34,
+            "Nosaukums":"Dundagas pils parks",
+            "_ICON":1,
+            "Apraksts":"Parks (10 ha)  pie Dundagas pils"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.3810082442796,
+               57.00763303379705
+            ]
+         },
+         "properties":{
+            "_OBJECTID":35,
+            "Nosaukums":"Jūrkalnes stāvkrasts",
+            "_ICON":1,
+            "Apraksts":"Stāvkrasts, pludmale"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.427716933745046,
+               56.64360793673353
+            ]
+         },
+         "properties":{
+            "_OBJECTID":36,
+            "Nosaukums":"Alaines muižas ansamblis ar apkārtni",
+            "_ICON":1,
+            "Apraksts":"Vietējs kultūras piemineklis ar ļoti senu vēsturi ēkas šajā vietā pirmoreiz minētas 1591.g. "
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.042796310279755,
+               56.623234877595166
+            ]
+         },
+         "properties":{
+            "_OBJECTID":37,
+            "Nosaukums":"Kalnamuižas ezers",
+            "_ICON":1,
+            "Apraksts":"Atpūtas vieta pie mākslīgi veidota uzpludinājuma agrākās ūdens ņemšanas vietas pilij"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               23.355471439661983,
+               57.04572488587229
+            ]
+         },
+         "properties":{
+            "_OBJECTID":38,
+            "Nosaukums":"Lāčupes dendroloģiskie stādījumi",
+            "_ICON":1,
+            "Apraksts":"Dendroloģiskajā parkā apskati, kā vietējos apstākļos mežā aug dažādi svešzemju koku stādījumi. Īpaši skaisti šeit rododendru ziedēšanas laikā. Pieejams gids – Marija Blūma-Kauliņa (tel. 29393605, iepriekš jāpiesakās)"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               28.15109595425281,
+               56.171312922043285
+            ]
+         },
+         "properties":{
+            "_OBJECTID":39,
+            "Nosaukums":"Draudzības kurgāns",
+            "_ICON":1,
+            "Apraksts":"Triju valstu robežpunkts ar skaistām koku alejām"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.014356471241342,
+               57.89411823419482
+            ]
+         },
+         "properties":{
+            "_OBJECTID":40,
+            "Nosaukums":"Dauģēnu klintis",
+            "_ICON":1,
+            "Apraksts":"Smilšakmens atsegums un alas Salacas krastā."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               27.31522781349031,
+               56.538590207817094
+            ]
+         },
+         "properties":{
+            "_OBJECTID":41,
+            "Nosaukums":"Ančupānu skatu tornis",
+            "_ICON":1,
+            "Apraksts":"Uzkāp 28,5 m augstajā Ančupānu skatu tornī, no kura paveras galvu reibinošs skats uz rudens zelta lapās slīgstošo Rēzekni, Jermolu un Odumovas mežu, Adamovas ezeru un tā salām. Atpūties labiekārtotā piknika vietā."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.945140781892007,
+               56.6863507134766
+            ]
+         },
+         "properties":{
+            "_OBJECTID":42,
+            "Nosaukums":"Kalsnavas arborētuma skatu tornis",
+            "_ICON":1,
+            "Apraksts":"Uzkāp 25 m augstajā Kalsnavas arborētuma skatu tornī, no kura var pārskatīt visu plašo arborētuma teritoriju un vērot apkārtnes panorāmu līdz pat Gaiziņam."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               22.64376656178814,
+               57.214432323521805
+            ]
+         },
+         "properties":{
+            "_OBJECTID":43,
+            "Nosaukums":"Kamparkalna skatu tornis",
+            "_ICON":1,
+            "Apraksts":"Uzkāp 28 m augstajā Kamparkalna skatu tornī, no kura paveras viens no skaistākajiem skatiem uz Talsu pauguraines pakalniem. Skaidrā laikā saskatīsi Talsus vai pat Rīgas jūras līča ūdeņus."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               24.993898870476414,
+               57.62016591174461
+            ]
+         },
+         "properties":{
+            "_OBJECTID":44,
+            "Nosaukums":"Grebu kalni",
+            "_ICON":1,
+            "Apraksts":"Grebu jeb Melnos kalnus veido seši nelieli pauguri purvu ielokā. Šobrīd dabā saglabājušies divi - Grebu pilskalns un Bļodas klans. Vēsturiski Grebu kalnos bijusi Saules, Mēness un svaigžņu vērotava. Pašlaik - ierīkots Saules pulkstenis."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.690969490787552,
+               56.5147041489206
+            ]
+         },
+         "properties":{
+            "_OBJECTID":45,
+            "Nosaukums":"Ugunsapsardzības tornis „Gustiņi”",
+            "_ICON":1,
+            "Apraksts":"Uzkāp 37 m augstajā uguns apsardzības tornī „Gustiņi”, no kura paveras lielisks skats uz Jēkabpils apkārtni. Blakus ir labiekārtota atpūtas vieta pasākumu rīkošanai kopā ar draugiem vai ģimeni."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.460820178113806,
+               56.1521510156133
+            ]
+         },
+         "properties":{
+            "_OBJECTID":46,
+            "Nosaukums":"Nīcgales akmens",
+            "_ICON":1,
+            "Apraksts":"AAA lielākais akmenis Latvijā, taureņu aizsargājamā teritorijā ar atpūtas - piknika vietu"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               24.729830891091012,
+               56.91993729559357
+            ]
+         },
+         "properties":{
+            "_OBJECTID":47,
+            "Nosaukums":"Kangaru ezers",
+            "_ICON":1,
+            "Apraksts":"Teritorija atrodas dabas liegumā \"Lielie Kangari\". Izcilākais osa valnis Latvijā, kura relatīvais augstums 27 m (78 m vjl.), 60-100 m plats. Savdabīga veģetācija, retas augu sugas. Teritorijā ietilpst arī Lielkangaru purvs. Geocaching punkts."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               23.524686975645523,
+               56.536036775232446
+            ]
+         },
+         "properties":{
+            "_OBJECTID":48,
+            "Nosaukums":"Zaļenieku muižas parks",
+            "_ICON":1,
+            "Apraksts":"Centrālā liepu aleja, kā arī celiņi ar vietējiem un svešzemju stādījumiem gar malām vedina uz domām, ka pašreizējais mežs ir bijis ainavu stila parks ar daļēji regulāriem parka stādījuma elementiem. Ierīkota atpūtas vieta."
+         }
+      }
+   ]
+}

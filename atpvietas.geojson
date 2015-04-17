@@ -1,0 +1,2328 @@
+{
+  "layer_name": "Atpūtas vietas",
+  "layer_group": "Info ",
+  "layer_type": "info",
+   "type":"FeatureCollection",
+   "features":[
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.979160027576086,
+               57.10178919810073
+            ]
+         },
+         "properties":{
+            "_OBJECTID":1,
+            "Nosaukums":"Atpūtas vieta pie Kaļņa ezera",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie meža ezera ar lapeni."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.975669478910902,
+               57.09819090465248
+            ]
+         },
+         "properties":{
+            "_OBJECTID":2,
+            "Nosaukums":"Atpūtas vieta pie Kaļņa ezera",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie meža ezera ar lapeni - vigvamu."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.995058028490007,
+               56.732799514351996
+            ]
+         },
+         "properties":{
+            "_OBJECTID":3,
+            "Nosaukums":"Atpūtas vieta \"Dumpīši\"",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie ūdenstilpnes"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.691192587146816,
+               57.00136811611071
+            ]
+         },
+         "properties":{
+            "_OBJECTID":4,
+            "Nosaukums":"Atpūtas vieta pie Pinku ezera",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta Pinku ezera krastā"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.69265626074815,
+               56.999364475887205
+            ]
+         },
+         "properties":{
+            "_OBJECTID":5,
+            "Nosaukums":"Atpūtas vieta pie Pinku ezera",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta Pinku ezera krastā"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               22.280827009944176,
+               57.123128382126936
+            ]
+         },
+         "properties":{
+            "_OBJECTID":6,
+            "Nosaukums":"Atpūtas vieta pie Ziloņa ezera",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie Ziloņa ezera"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               22.019228018676188,
+               56.98860873777073
+            ]
+         },
+         "properties":{
+            "_OBJECTID":7,
+            "Nosaukums":"Riežupes dabas parks",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta Riežupes dabas parkā"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               22.008155065582173,
+               56.99506642918146
+            ]
+         },
+         "properties":{
+            "_OBJECTID":8,
+            "Nosaukums":"Riežupes dabas parks",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta Riežupes dabas parkā upes ielokā"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               22.274653669632528,
+               57.12378517951606
+            ]
+         },
+         "properties":{
+            "_OBJECTID":9,
+            "Nosaukums":"Atpūtas vieta pie Mežmuižas ezera",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie ezera"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.295052584297707,
+               56.768544633389695
+            ]
+         },
+         "properties":{
+            "_OBJECTID":10,
+            "Nosaukums":"Atpūtas vieta Avotu karjerā",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie ūdenstilpnes"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.070166607712622,
+               56.78763496498755
+            ]
+         },
+         "properties":{
+            "_OBJECTID":11,
+            "Nosaukums":"Atpūtas vieta pie Grigaļupes",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta meža ceļa malā"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               22.19354178225626,
+               56.52940277287399
+            ]
+         },
+         "properties":{
+            "_OBJECTID":12,
+            "Nosaukums":"Zaņas upes krasts",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta Zaņas upes krastā"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               22.08452230764732,
+               56.68693921330873
+            ]
+         },
+         "properties":{
+            "_OBJECTID":13,
+            "Nosaukums":"Atpūtas vieta pie Cieceres upes",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta Cieceres upes krastā"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               22.146800186845326,
+               56.86524542842051
+            ]
+         },
+         "properties":{
+            "_OBJECTID":14,
+            "Nosaukums":"Atpūtas vieta pie Vārmes",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie ūdenstilnes"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.235198854708074,
+               56.41511786898491
+            ]
+         },
+         "properties":{
+            "_OBJECTID":15,
+            "Nosaukums":"Atpūtas vieta Bārtas upes krastā",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta ceļa malā"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.171524963914294,
+               56.42489643384039
+            ]
+         },
+         "properties":{
+            "_OBJECTID":16,
+            "Nosaukums":"Atpūtas vieta \"Pūcīte\"",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta Otaņķes upes krastā"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.452272938750184,
+               56.309600509909956
+            ]
+         },
+         "properties":{
+            "_OBJECTID":17,
+            "Nosaukums":"Atpūtas vieta Kalētu upmalā",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta Bārtas upes krastā"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               22.639173327518392,
+               56.54592144450504
+            ]
+         },
+         "properties":{
+            "_OBJECTID":18,
+            "Nosaukums":"Atpūtas vieta \"Mežmuiža\"",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta Svētaiņu ezera krastā"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               20.997419532224797,
+               56.2672353352923
+            ]
+         },
+         "properties":{
+            "_OBJECTID":19,
+            "Nosaukums":"Atpūtas vieta Papes dabas parkā",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta dabas parkā Pape"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               20.993360601513075,
+               56.24334386405144
+            ]
+         },
+         "properties":{
+            "_OBJECTID":20,
+            "Nosaukums":"Atpūtas vieta Papes dabas parkā",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta dabas parkā Pape"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               22.184108186283765,
+               57.65295027280325
+            ]
+         },
+         "properties":{
+            "_OBJECTID":21,
+            "Nosaukums":"Jaunciems",
+            "_ICON":2,
+            "Apraksts":"Pludmale"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.377730387927727,
+               56.273268866382864
+            ]
+         },
+         "properties":{
+            "_OBJECTID":22,
+            "Nosaukums":"Atpūtas vieta dabas liegumā \"Dunika\"",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta dabas takas malā"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.37937077092539,
+               56.266026069226314
+            ]
+         },
+         "properties":{
+            "_OBJECTID":23,
+            "Nosaukums":"Atpūtas vieta dabas liegumā \"Dunika\"",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta dabas takas malā"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.42992671664092,
+               57.392351239980655
+            ]
+         },
+         "properties":{
+            "_OBJECTID":24,
+            "Nosaukums":"Atpūtas vieta pie Gaujas (Tirziņas ieteka)",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie Tirziņas ietekas Gaujā. "
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               27.15882020170619,
+               57.50833512005488
+            ]
+         },
+         "properties":{
+            "_OBJECTID":25,
+            "Nosaukums":"Atpūtas vieta pie Meistara ezera (Malstara ezers)",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie meža ezera."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               27.110426251450008,
+               57.55537629740263
+            ]
+         },
+         "properties":{
+            "_OBJECTID":26,
+            "Nosaukums":"Atpūtas vieta pie Vaidavas ezera",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie Vaidavas ezera."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.78899828816145,
+               55.720277207525726
+            ]
+         },
+         "properties":{
+            "_OBJECTID":27,
+            "Nosaukums":"Komsomoļskaja izba",
+            "_ICON":2,
+            "Apraksts":"Pussala Sila ezerā"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.838830241761627,
+               55.759482548555866
+            ]
+         },
+         "properties":{
+            "_OBJECTID":28,
+            "Nosaukums":"Atpūtas vieta",
+            "_ICON":2,
+            "Apraksts":"Ezera krasts"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.998341563395,
+               57.30656505161613
+            ]
+         },
+         "properties":{
+            "_OBJECTID":29,
+            "Nosaukums":"Atpūtas vieta \"Papardes stacija\"",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie šaursliežu dzelzceļa līnijas stacijas."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.40697741565333,
+               57.26591085980351
+            ]
+         },
+         "properties":{
+            "_OBJECTID":30,
+            "Nosaukums":"Meži ap Ādmiņa ezeru",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie ezera."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.553527223631704,
+               57.26803280642514
+            ]
+         },
+         "properties":{
+            "_OBJECTID":31,
+            "Nosaukums":"Sēravots pie Gaujas",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie Gaujas. Sēravots."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.666341921313972,
+               57.28055652315459
+            ]
+         },
+         "properties":{
+            "_OBJECTID":32,
+            "Nosaukums":"Atpūtas vieta \"Šūpoles\"",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie Gaujas. Ir šūpoles."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.403047217711276,
+               56.240106508415636
+            ]
+         },
+         "properties":{
+            "_OBJECTID":33,
+            "Nosaukums":"Dabas lieguma \"Dunika\" skābaržu audze",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta dabas takas (laipas) galā, ceļa malā"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.388431360340633,
+               56.24853316725887
+            ]
+         },
+         "properties":{
+            "_OBJECTID":34,
+            "Nosaukums":"Atpūtas vieta dabas liegumā \"Dunika\"",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta dabas takas malā"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.13190873526827,
+               56.188862653836736
+            ]
+         },
+         "properties":{
+            "_OBJECTID":35,
+            "Nosaukums":"Atpūtas vieta \"Priežu mežs\"",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta mežā"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.159060907618937,
+               56.36256491419954
+            ]
+         },
+         "properties":{
+            "_OBJECTID":36,
+            "Nosaukums":"Atpūtas vieta Bārtas upes krastā",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta Bārtas upes krastā"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               22.283534406446392,
+               57.12734307911961
+            ]
+         },
+         "properties":{
+            "_OBJECTID":37,
+            "Nosaukums":"Atpūtas vieta pie Ziloņa ezera",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vietas pie Ziloņa ezera"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               20.98411329906253,
+               56.21953207955386
+            ]
+         },
+         "properties":{
+            "_OBJECTID":38,
+            "Nosaukums":"Atpūtas vieta Papes dabas parkā",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta dabas takas maršrutā"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               22.26224958486557,
+               57.09668601904025
+            ]
+         },
+         "properties":{
+            "_OBJECTID":39,
+            "Nosaukums":"Atpūtas vietas pie Segliņu ezera",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie ezera"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               22.262983400654832,
+               57.087790229236305
+            ]
+         },
+         "properties":{
+            "_OBJECTID":40,
+            "Nosaukums":"Atpūtas vietas pie Segliņu ezera",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie ezera"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               22.29164660668698,
+               56.71061891524454
+            ]
+         },
+         "properties":{
+            "_OBJECTID":41,
+            "Nosaukums":"Atpūtas vieta pie Lašupes dzirnavu dīķa",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie Lašupes dzirnavu dīķa"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.307342247355678,
+               55.92754726313342
+            ]
+         },
+         "properties":{
+            "_OBJECTID":42,
+            "Nosaukums":"Atpūtas vieta Sasaļu mežā",
+            "_ICON":2,
+            "Apraksts":"Peldvieta dabas liegumā pie Sasaļu ezera, netālu no Sventes un Egļukalna"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.74477173839091,
+               55.69197610243816
+            ]
+         },
+         "properties":{
+            "_OBJECTID":43,
+            "Nosaukums":"Atpūtas vieta \"Pērkules krauja\"",
+            "_ICON":2,
+            "Apraksts":"Dabas parkā pie Riča ezrea atpūtas un peldvieta, ainavisks skats pāri ezeram uz Lietuvu un Baltkrieviju"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.73850192171244,
+               55.69411780405602
+            ]
+         },
+         "properties":{
+            "_OBJECTID":44,
+            "Nosaukums":"Atpūtas vieta \"Banksa priedes\"",
+            "_ICON":2,
+            "Apraksts":"Dabas parkā pie Riča ezera atpūtas un peldvieta ar telšu celšanas iespējām, pierobežas zona, ar pasi"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.76506766306585,
+               55.886487304441516
+            ]
+         },
+         "properties":{
+            "_OBJECTID":45,
+            "Nosaukums":"Atpūtas vieta \"Zemenīte\"",
+            "_ICON":2,
+            "Apraksts":"Dabas parks Daugavas loki - pļavā ainava un nogāze uz Daugavu, piknika un atpūtas vieta lielākai kompānijai"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               27.240709535146834,
+               55.83296685136855
+            ]
+         },
+         "properties":{
+            "_OBJECTID":46,
+            "Nosaukums":"Atpūtas vieta \"Šilovka\"",
+            "_ICON":2,
+            "Apraksts":"Ainaviska vieta pie Šilovkas ezera - atpūtas un peldvieta. Braucot nepieciešama pase - pierobežas zona"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               27.125120021501743,
+               55.88435529005193
+            ]
+         },
+         "properties":{
+            "_OBJECTID":47,
+            "Nosaukums":"Atpūtas vieta pie Daugavas",
+            "_ICON":2,
+            "Apraksts":"Ainaviska vieta atpūtai pie Daugavas, ieteicama dabas tūristiem, "
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               27.18900744363532,
+               55.88589582212256
+            ]
+         },
+         "properties":{
+            "_OBJECTID":48,
+            "Nosaukums":"Krāslavas priežu sils",
+            "_ICON":2,
+            "Apraksts":"Atpūtas un pastaigu vieta pie pilsētas priežu mežā"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.48678903746992,
+               55.938978447854026
+            ]
+         },
+         "properties":{
+            "_OBJECTID":49,
+            "Nosaukums":"Atpūtas vieta pie Gaišā ezera",
+            "_ICON":2,
+            "Apraksts":"Daugavpils aizsargjoslas meža  - ezers ar vairākām peldvietām un atpūtas iespējām"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.209520483867607,
+               56.15583727985012
+            ]
+         },
+         "properties":{
+            "_OBJECTID":50,
+            "Nosaukums":"Atpūtas vieta \"Raktais ceļš\"",
+            "_ICON":2,
+            "Apraksts":"Atpūtas - apstāšanāsun piknika vieta pie ceļu krustojuma, neliels dīķītis"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.220986394202725,
+               56.40178079464346
+            ]
+         },
+         "properties":{
+            "_OBJECTID":51,
+            "Nosaukums":"Atpūtas vieta \"Tīteņi Steķu silā\"",
+            "_ICON":2,
+            "Apraksts":"Atpūtas - piknika un peldvieta pie  sena karjera meža masīvā"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.934574591805927,
+               56.41864012917688
+            ]
+         },
+         "properties":{
+            "_OBJECTID":52,
+            "Nosaukums":"Atpūtas vieta \"Piļkas\"",
+            "_ICON":2,
+            "Apraksts":"Ceļu sazarojumā pie DL ,,Ābeļi\"  atpūtas - piknika vieta - sena pieturvieta "
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.189318615497825,
+               56.630797033026056
+            ]
+         },
+         "properties":{
+            "_OBJECTID":53,
+            "Nosaukums":"Atpūtas vieta pie Baltezera",
+            "_ICON":2,
+            "Apraksts":"Peldvietas  un atpūtas vietas pie Baltezera DL,,Timsmales ezers\" teritorijā"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               24.378342225259075,
+               57.52168839312969
+            ]
+         },
+         "properties":{
+            "_OBJECTID":54,
+            "Nosaukums":"Atpūtas vieta \"Vasas\"",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie jūras. Atrodas Ziemeļvidzemes biosfēras rezervātā un dabas liegumā \"Vidzemes akmeņainā jūrmala\"."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               24.996209928478663,
+               57.873244273292244
+            ]
+         },
+         "properties":{
+            "_OBJECTID":55,
+            "Nosaukums":"Skaņaiskalns",
+            "_ICON":2,
+            "Apraksts":"20 metrus augstā un  90 metrus garā sarkanā smilšakmens klints ne vien izskatās iespaidīgi, bet arī rada spēcīgāko atbalss efektu Latvijā, kas saklausāms tikai šajā upes krastā. No tā arī cēlies kalna nosaukums – Skaņaiskalns."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               24.786164742919652,
+               57.82658000669352
+            ]
+         },
+         "properties":{
+            "_OBJECTID":56,
+            "Nosaukums":"Atpūtas vieta \"Karogu karjers\"",
+            "_ICON":2,
+            "Apraksts":"Pastaigu parks, taka uz Karogu alām, dabas taka uz Dzelzāmura dižakmeni."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.67429583025637,
+               57.229102266197515
+            ]
+         },
+         "properties":{
+            "_OBJECTID":57,
+            "Nosaukums":"Atpūtas vieta pie Kaupēna ezera",
+            "_ICON":2,
+            "Apraksts":"Labiekārtota atpūtas vieta ar Centrālvidzemei raksturīgo ainavu - ezeru, pauguraini un mežiem – ideāli piemērota brīvdienu atpūtai. Veselības veicināšanas un izziņas nolūkos var doties nelielā pastaigā pa izveidoto meža taku."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               24.894036785043,
+               57.285523438475025
+            ]
+         },
+         "properties":{
+            "_OBJECTID":58,
+            "Nosaukums":"Atpūtas vieta pie Pīļezera",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vietas pie ezera ar peldvietām. Apkārtējie meži piemēroti ogošanai un sēņošanai."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               24.963335155391576,
+               57.37498301100919
+            ]
+         },
+         "properties":{
+            "_OBJECTID":59,
+            "Nosaukums":"Atpūtas vieta pie Riebiņu ezera",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie ezera ar peldvietu. Tuvumā - pilskalns un ozolu meži."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               23.529212624266336,
+               56.422967411731406
+            ]
+         },
+         "properties":{
+            "_OBJECTID":60,
+            "Nosaukums":"Zaķu pļava",
+            "_ICON":2,
+            "Apraksts":"Zaķu pļavā tu vari organizēt aktīvās atpūtas un sporta pasākumus, ir galdi ar soliem, nojumēm, ugunskura vietām, šūpolēm. Iespēja redzēt pilskalnu, izteiktas upju ielejas ar nogāžu un gravu mežiem, smilšakmens atsegumus."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               23.5392454513306,
+               56.41857562757815
+            ]
+         },
+         "properties":{
+            "_OBJECTID":61,
+            "Nosaukums":"Zaķu pļava (aiz muižas pie upes)",
+            "_ICON":2,
+            "Apraksts":"Zaķu pļavā izbaudi Vilces pagasta kultūrvēsturi un ievērojamus objektus, padzeries no Lielmātes avotiņa. "
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               23.58709276056686,
+               56.635558622124734
+            ]
+         },
+         "properties":{
+            "_OBJECTID":62,
+            "Nosaukums":"Bramberģes atpūtas vieta",
+            "_ICON":2,
+            "Apraksts":"Atpūties kādā no piknika vietām ar galdiem, soliem un iekārtotu ugunskura vietu."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               23.63754048593802,
+               56.86416010450813
+            ]
+         },
+         "properties":{
+            "_OBJECTID":63,
+            "Nosaukums":"Atpūtas vieta ceļā uz Ložmetējkalnu",
+            "_ICON":2,
+            "Apraksts":"Ziemassvētku kauju piemiņas vietās, kuras saglabājušās no 1916. gada, apskati krievu un vācu ierakumus, piemiņas akmeņus latviešu strēlnieku pulku izejas pozīcijās, piemiņas zīmes frontes pārrāvuma vietās, brāļu kapus un Kara muzeja filiāli „Mangaļi”."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               23.283208957659156,
+               57.07281779265969
+            ]
+         },
+         "properties":{
+            "_OBJECTID":64,
+            "Nosaukums":"Atpūtas vieta \"Zīvartiņš\"",
+            "_ICON":2,
+            "Apraksts":"Caur aizsargājamo priežu mežu apmēram 100 m garā laipu taka aizvedīs tevi uz jūru. Atpūties telts un ugunskura vietās ar galdiem, soliem un ģērbtuvēm. Līdz jūrai iespēja aizbraukt ar bērnu ratiņiem un ratiņkrēsliem."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               22.00235050884737,
+               57.303035040743225
+            ]
+         },
+         "properties":{
+            "_OBJECTID":65,
+            "Nosaukums":"Atpūtas vieta pie Dūņezera",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie meža ezera"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               22.08293746838217,
+               57.42035216696166
+            ]
+         },
+         "properties":{
+            "_OBJECTID":66,
+            "Nosaukums":"Akmeņkalnu Velnapēda",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie dižakmens "
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               22.690049198038935,
+               57.43111959293117
+            ]
+         },
+         "properties":{
+            "_OBJECTID":67,
+            "Nosaukums":"Lūrmaņu avots",
+            "_ICON":2,
+            "Apraksts":"Avots"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               22.19369325887436,
+               57.60284616773674
+            ]
+         },
+         "properties":{
+            "_OBJECTID":68,
+            "Nosaukums":"Atpūtas vieta pie Puteru ezera",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie meža ezera"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.8845132459698,
+               57.51631297698589
+            ]
+         },
+         "properties":{
+            "_OBJECTID":69,
+            "Nosaukums":"Atpūtas vieta pie Rindas upes",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie Rindas upes"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.980833950669307,
+               57.58207097804461
+            ]
+         },
+         "properties":{
+            "_OBJECTID":70,
+            "Nosaukums":"Atpūtas vieta ceļā uz Miķeļtorni",
+            "_ICON":2,
+            "Apraksts":"Laivotāju vieta pie Irbes upes"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               22.081710488281715,
+               57.61031989607551
+            ]
+         },
+         "properties":{
+            "_OBJECTID":71,
+            "Nosaukums":"Atpūtas vieta \"Rojnieki\"",
+            "_ICON":2,
+            "Apraksts":"Laivotāju vieta pie Irbes upes"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.418407777554023,
+               57.24563393628921
+            ]
+         },
+         "properties":{
+            "_OBJECTID":72,
+            "Nosaukums":"Užava",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie jūras"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               22.1494457711712,
+               57.64437078105061
+            ]
+         },
+         "properties":{
+            "_OBJECTID":73,
+            "Nosaukums":"Atpūtas vieta \"Irbes ieteka\"",
+            "_ICON":2,
+            "Apraksts":"Atpūtas un telšu vietas pie jūras"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               27.315968065708603,
+               56.53463220642897
+            ]
+         },
+         "properties":{
+            "_OBJECTID":74,
+            "Nosaukums":"Ančupānu meža parks",
+            "_ICON":2,
+            "Apraksts":"Netālu no Rēzeknes atradīsi lielisku atpūtas vietu ar nelielu dīķi, āra kamīnu un lapeni. Ideāla vieta nelielam piknikam draugu lokā."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.189869480396226,
+               56.81668068383698
+            ]
+         },
+         "properties":{
+            "_OBJECTID":75,
+            "Nosaukums":"Atpūtas vieta pie Vadzola ezera",
+            "_ICON":2,
+            "Apraksts":"Ezera krastā atpūties koka lapenē ar iekārtotu ugunskura vietu"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.209324784984574,
+               56.67979458193207
+            ]
+         },
+         "properties":{
+            "_OBJECTID":76,
+            "Nosaukums":"Driksnas sils",
+            "_ICON":2,
+            "Apraksts":"Netālu no Sāvienas pilskalna iekārtota neliela atpūtas vieta ar dēļu laipām, no kurām paveras skats uz krāšņu meža ezeru. Atpūties lapenē ar ugunskura vietu"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.56015621730336,
+               56.806518402652614
+            ]
+         },
+         "properties":{
+            "_OBJECTID":77,
+            "Nosaukums":"Atpūtas vieta pie Kapu ezera",
+            "_ICON":2,
+            "Apraksts":"Ezera krastā atpūties peldvietā, kurā vari netraucēti veldzēties ezera ūdeņos"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.511840542647747,
+               56.922841760458425
+            ]
+         },
+         "properties":{
+            "_OBJECTID":78,
+            "Nosaukums":"Atpūtas vieta Pie medņa",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vietas tuvumā nejauši vari sastapt meža putnu karali - medni. Dīķa pussalā labiekārtota grila vieta ar laipu pāri dīķim, lapene"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               27.66049909640867,
+               57.271594973188826
+            ]
+         },
+         "properties":{
+            "_OBJECTID":79,
+            "Nosaukums":"Žīguri",
+            "_ICON":2,
+            "Apraksts":"Atpūties lapenē ar iekārtotu ugunskura vietu."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               27.612888419587875,
+               57.27877849064066
+            ]
+         },
+         "properties":{
+            "_OBJECTID":80,
+            "Nosaukums":"Atpūtas vieta \"Pie dīķa\"",
+            "_ICON":2,
+            "Apraksts":"Dīķa krastā atpūties koka lapenē ar iekārtotu ugunskura vietu."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               23.137144188730304,
+               57.257481986990115
+            ]
+         },
+         "properties":{
+            "_OBJECTID":81,
+            "Nosaukums":"Engures ezera dabas parks",
+            "_ICON":2,
+            "Apraksts":"Baudi brīnišķīgo Engures ezera apkārtni. Netālu no Ornitologu mājas apmeklē Orhideju taku, vēro savvaļas dzīvniekus un putnus."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               27.22908979730221,
+               57.13217587111001
+            ]
+         },
+         "properties":{
+            "_OBJECTID":82,
+            "Nosaukums":"Balvu vecais parks",
+            "_ICON":2,
+            "Apraksts":"Balvu vecais parks atrodas ezera krastā. Atpūties labiekārtotajā piknika vietā no ezerā esošās pontona tipa laipas vari makšķerēt un peldēties."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.968769961184705,
+               57.054831663031166
+            ]
+         },
+         "properties":{
+            "_OBJECTID":83,
+            "Nosaukums":"Atpūtas vieta pie Lazdaga ezera",
+            "_ICON":2,
+            "Apraksts":"Ezera krastā atpūties lapenē ar iekārtotu ugunskura vietu"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.989817791922178,
+               57.09067652254129
+            ]
+         },
+         "properties":{
+            "_OBJECTID":84,
+            "Nosaukums":"Atpūtas vieta pie Kaļņa ezera",
+            "_ICON":2,
+            "Apraksts":"Ezera krastā atpūties guļbaļķu lapenē ar iekārtotu ugunskura vietu"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               27.603313017361415,
+               56.87034678409759
+            ]
+         },
+         "properties":{
+            "_OBJECTID":85,
+            "Nosaukums":"Atpūtas vieta pie Motrīnes ezera",
+            "_ICON":2,
+            "Apraksts":"Ezera krastā atpūties piknika vietā ar galdu, soliem un iekārtotu ugunskura vietu. Šeit atradīsi peldvietu, kurā varēsi netraucēti veldzēties ezera ūdeņos."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               27.18073492735408,
+               56.79128619587067
+            ]
+         },
+         "properties":{
+            "_OBJECTID":86,
+            "Nosaukums":"Atpūtas vieta \"Akmens\"",
+            "_ICON":2,
+            "Apraksts":"Atpūties koka lapenē ar iekārtotu ugunskura vietu un kamīnu"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.884865797291695,
+               56.65629878460618
+            ]
+         },
+         "properties":{
+            "_OBJECTID":87,
+            "Nosaukums":"Atpūtas vieta \"Restorāns\"",
+            "_ICON":2,
+            "Apraksts":"Atpūties koka lapenē ar aprīkotu ugunskura vietu, ņem līdzi draugus - vietas pietiks visiem"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.86148166229924,
+               56.64200846493799
+            ]
+         },
+         "properties":{
+            "_OBJECTID":88,
+            "Nosaukums":"Atpūtas vieta \"Ķēķis\"",
+            "_ICON":2,
+            "Apraksts":"Atpūties koka lapenē ar iekārtotu ugunskura vietu"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               27.27435148206291,
+               56.25370012232213
+            ]
+         },
+         "properties":{
+            "_OBJECTID":89,
+            "Nosaukums":"Atpūtas vieta pie Soročkas ezera",
+            "_ICON":2,
+            "Apraksts":"Ezera krastā atpūties koka lapenē ar iekārtotu ugunskura vietu."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               27.39831984916259,
+               56.42793805930762
+            ]
+         },
+         "properties":{
+            "_OBJECTID":90,
+            "Nosaukums":"Atpūtas vieta pie Janopoles dīķa",
+            "_ICON":2,
+            "Apraksts":"Dīķa krastā atpūties koka lapenē ar iekārtotu ugunskura vietu"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               27.637162810179746,
+               56.380888091074326
+            ]
+         },
+         "properties":{
+            "_OBJECTID":91,
+            "Nosaukums":"Atpūtas vieta pie Šostu ezera",
+            "_ICON":2,
+            "Apraksts":"Ezera krastā atpūties koka lapenē ar iekārtotu ugunskura vietu."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               27.746077569972442,
+               56.371817494389006
+            ]
+         },
+         "properties":{
+            "_OBJECTID":92,
+            "Nosaukums":"Atpūtas vieta pie Vorcu ezera",
+            "_ICON":2,
+            "Apraksts":"Ezera krastā atpūties koka lapenē ar iekārtotu ugunskura vietu"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               27.805203389297617,
+               56.73037515756931
+            ]
+         },
+         "properties":{
+            "_OBJECTID":93,
+            "Nosaukums":"Kravcovka",
+            "_ICON":2,
+            "Apraksts":"Atpūties koka lapenē ar iekārtotu ugunskura vietu"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               28.010592567212996,
+               56.210450906424626
+            ]
+         },
+         "properties":{
+            "_OBJECTID":94,
+            "Nosaukums":"Atpūtas vieta pie Plisūna (Plusona) ezera",
+            "_ICON":2,
+            "Apraksts":"Šai ezerā ieraudzīsi vienu no Latvijas dižakmeņiem, kuram piekļūt izdosies pa koka laipām. Atpūties lapenē ar iekārtotu ugunskura vietu."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               28.031398063029656,
+               56.23007011119404
+            ]
+         },
+         "properties":{
+            "_OBJECTID":95,
+            "Nosaukums":"Atpūtas vieta pie Kovšu ezera (Kaušezers)",
+            "_ICON":2,
+            "Apraksts":"Ezera krastā makšķerē un atpūties koka lapenē ar iekārtotu ugunskura vietu"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               27.28982244485411,
+               56.80335271688591
+            ]
+         },
+         "properties":{
+            "_OBJECTID":96,
+            "Nosaukums":"Krišjāņu Staburags",
+            "_ICON":2,
+            "Apraksts":"Šajā leģendām apvītajā atpūtas vietā baudi dabu lapenē ar galdu, soliem un ugunskura vietu."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.857314872607503,
+               57.851345301217066
+            ]
+         },
+         "properties":{
+            "_OBJECTID":97,
+            "Nosaukums":"Atpūtas vieta pie Suķiera ezera",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie ezera."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.773780087874513,
+               57.749519043054136
+            ]
+         },
+         "properties":{
+            "_OBJECTID":98,
+            "Nosaukums":"Atpūtas vieta pie Valda ezera",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie ezera."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.102658255921426,
+               57.70343624217486
+            ]
+         },
+         "properties":{
+            "_OBJECTID":99,
+            "Nosaukums":"Atpūtas vieta pie Bekām",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie Gaujas."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.996993230720705,
+               57.67252969933077
+            ]
+         },
+         "properties":{
+            "_OBJECTID":100,
+            "Nosaukums":"Atpūtas vieta pie Spicu tilta",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie Gaujas ar lapeni."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.9771441289663,
+               57.668461958994214
+            ]
+         },
+         "properties":{
+            "_OBJECTID":101,
+            "Nosaukums":"Atpūtas vieta pie Gaujas",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie Gaujas."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.974470221657953,
+               57.656715321349395
+            ]
+         },
+         "properties":{
+            "_OBJECTID":102,
+            "Nosaukums":"Atpūtas vieta pie Gaujas",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie Gaujas."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.708283240484775,
+               57.61806885121388
+            ]
+         },
+         "properties":{
+            "_OBJECTID":103,
+            "Nosaukums":"Atpūtas vieta pie Gaujas",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie Gaujas."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.678417370848535,
+               57.62101683727252
+            ]
+         },
+         "properties":{
+            "_OBJECTID":104,
+            "Nosaukums":"Atpūtas vieta pie Ūdriņām",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie Gaujas."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.697593411672926,
+               57.6186856565032
+            ]
+         },
+         "properties":{
+            "_OBJECTID":105,
+            "Nosaukums":"Atpūtas vieta pie Gaujas tilta Strenči",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie Gaujas. Laivotāju pieturvieta. "
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.700286910339344,
+               57.618338892865665
+            ]
+         },
+         "properties":{
+            "_OBJECTID":106,
+            "Nosaukums":"Atpūtas vieta pie Gaujas tilta Strenči",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie Gaujas. Laivotāju pieturvieta."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.978778032415846,
+               57.639993366015005
+            ]
+         },
+         "properties":{
+            "_OBJECTID":107,
+            "Nosaukums":"Atpūtas vieta \"Iežuleja\"",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie Gaujas ar lapeni."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.00926334344092,
+               57.670887525752846
+            ]
+         },
+         "properties":{
+            "_OBJECTID":108,
+            "Nosaukums":"Plostu sienamā vieta",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie Gaujas - plostu siešanas vieta."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.193443794266727,
+               57.65374452980831
+            ]
+         },
+         "properties":{
+            "_OBJECTID":109,
+            "Nosaukums":"Atpūtas vieta pie Cepurītes ezera",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie ezera."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.229838731677376,
+               57.595466131772866
+            ]
+         },
+         "properties":{
+            "_OBJECTID":110,
+            "Nosaukums":"Atpūtas vieta pie Darvas ezera",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie ezera."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.077173501366758,
+               57.673543833551264
+            ]
+         },
+         "properties":{
+            "_OBJECTID":111,
+            "Nosaukums":"Atpūtas vieta pie Kokšu (Zāļu) ezera",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie meža ezeru kaskādes."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.081555127590036,
+               57.66770273295589
+            ]
+         },
+         "properties":{
+            "_OBJECTID":112,
+            "Nosaukums":"Atpūtas vieta pie Kokšu (Zāļu) ezera",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie meža ezeru kaskādes."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.975193249579036,
+               57.43612967414862
+            ]
+         },
+         "properties":{
+            "_OBJECTID":113,
+            "Nosaukums":"Atpūtas vietas pie Niedrāja ezera",
+            "_ICON":2,
+            "Apraksts":"Vairākas labiekārtotas atpūtas vietas pie Niedrāja ezera, nodalītas nelielas peldvietas ar laipām u.c. Ezers apbraucams ar riteni."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.976328482942904,
+               57.437450743104705
+            ]
+         },
+         "properties":{
+            "_OBJECTID":114,
+            "Nosaukums":"Atpūtas vietas pie Niedrāja ezera",
+            "_ICON":2,
+            "Apraksts":"Vairākas labiekārtotas atpūtas vietas pie Niedrāja ezera, nodalītas nelielas peldvietas ar laipām u.c. Ezers apbraucams ar riteni."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.97458417205337,
+               57.43886796005455
+            ]
+         },
+         "properties":{
+            "_OBJECTID":115,
+            "Nosaukums":"Atpūtas vietas pie Niedrāja ezera",
+            "_ICON":2,
+            "Apraksts":"Vairākas labiekārtotas atpūtas vietas pie Niedrāja ezera, nodalītas nelielas peldvietas ar laipām u.c. Ezers apbraucams ar riteni."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.973201644169933,
+               57.436466903486235
+            ]
+         },
+         "properties":{
+            "_OBJECTID":116,
+            "Nosaukums":"Atpūtas vietas pie Niedrāja ezera",
+            "_ICON":2,
+            "Apraksts":"Vairākas labiekārtotas atpūtas vietas pie Niedrāja ezera, nodalītas nelielas peldvietas ar laipām u.c. Ezers apbraucams ar riteni."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.908359509620368,
+               57.414209251333205
+            ]
+         },
+         "properties":{
+            "_OBJECTID":117,
+            "Nosaukums":"Atpūtas vieta pie Klievezera",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie meža ezeriņa Smiltenes teritorijā."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.962328014661125,
+               57.42329524810026
+            ]
+         },
+         "properties":{
+            "_OBJECTID":118,
+            "Nosaukums":"Atpūtas vieta pie Spiciera ezera",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie ezera. Ezerā drīkst nodarboties ar ūdens motosportu."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.40143210731958,
+               57.50892460064364
+            ]
+         },
+         "properties":{
+            "_OBJECTID":119,
+            "Nosaukums":"Dabas liegums \"Gaujienas priedes\"",
+            "_ICON":2,
+            "Apraksts":"Vecs priežu mežs ar iestaigātām takām."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               24.49933293680499,
+               57.911453514273035
+            ]
+         },
+         "properties":{
+            "_OBJECTID":120,
+            "Nosaukums":"Ēkāju ozols un taka",
+            "_ICON":2,
+            "Apraksts":"Gājēju taka, kas veidota uz veco meža ceļu bāzes, ved caur dižozolu mežiem. Latviešu un igauņu kontrabandistiem kādreiz nav gājis viegli, jo apmēram 500 m garā posmā jāpārvar visai ekstrēmi šķēršļi: jābrien pa slapjiem brikšņiem, jākāpj pāri kritalām, un jālaipo pa ciņiem, lai nebūtu jāiekrīt dubļos līdz ceļiem. Šajā takā norāžu ir maz, jākuļas cauri pašam, tomēr gandarījums par paveikto arī daudz lielāks, nekā minot labiekārtotu celiņu."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               28.034756228768003,
+               56.22894719215611
+            ]
+         },
+         "properties":{
+            "_OBJECTID":121,
+            "Nosaukums":"Atpūtas vieta pie Kovšu ezera (Kaušezers)",
+            "_ICON":2,
+            "Apraksts":"Ugunskura un atpūtas vieta"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               28.038004071508,
+               56.22973921460641
+            ]
+         },
+         "properties":{
+            "_OBJECTID":122,
+            "Nosaukums":"Atpūtas vieta pie Kovšu ezerav (Kaušezers)",
+            "_ICON":2,
+            "Apraksts":"Ezera krastā makšķerē un atpūties koka lapenē ar iekārtotu ugunskura vietu."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               28.02416041493882,
+               56.233474950961124
+            ]
+         },
+         "properties":{
+            "_OBJECTID":123,
+            "Nosaukums":"Atpūtas vieta pie Kovšu ezera (Kaušezers)",
+            "_ICON":2,
+            "Apraksts":"Ugunskura un atpūtas vieta"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               27.150655814737377,
+               56.76446051462386
+            ]
+         },
+         "properties":{
+            "_OBJECTID":124,
+            "Nosaukums":"Atpūtas vieta pie Lielā Svētiņu ezera",
+            "_ICON":2,
+            "Apraksts":"Ezera krastā atpūties koka lapenē ar iekārtotu ugunskura vietu. Šeit atradīsi peldvietu, kurā varēsi netraucēti veldzēties ezera ūdeņos."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.49921595531248,
+               57.35629215389292
+            ]
+         },
+         "properties":{
+            "_OBJECTID":125,
+            "Nosaukums":"Ventspils piekraste",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie jūras"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.47776688935835,
+               57.34209301132154
+            ]
+         },
+         "properties":{
+            "_OBJECTID":126,
+            "Nosaukums":"Ventspils piekraste",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie jūras"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.41566026588464,
+               57.20972578377524
+            ]
+         },
+         "properties":{
+            "_OBJECTID":127,
+            "Nosaukums":"Užavas bāka",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie jūras"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.686527205885454,
+               56.8802109207997
+            ]
+         },
+         "properties":{
+            "_OBJECTID":128,
+            "Nosaukums":"Dzērves kakls",
+            "_ICON":2,
+            "Apraksts":"Aiviekstes upes krasts veidojies kā garš dzērves kakls 2 km garumā ar daudz krāšņiem ozoliem. Ideāla vieta makšķerēšanai"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               22.749991944384874,
+               56.854920073825724
+            ]
+         },
+         "properties":{
+            "_OBJECTID":129,
+            "Nosaukums":"Smiltiņkalns",
+            "_ICON":2,
+            "Apraksts":"Šī ir Austrumkurzemes augstienes un Tukuma rajona augstākā vieta, atrodas Zantes pagastā. Uzkāp pa kāpnēm kalnā uz skatu platformu. Atpūties koka lapenē ar galdu, soliem un iekārtotu ugunskura vietu."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               27.053635978201726,
+               56.237388773884845
+            ]
+         },
+         "properties":{
+            "_OBJECTID":130,
+            "Nosaukums":"Atpūtas vieta pie Līdaču (Leidaču) ezera",
+            "_ICON":2,
+            "Apraksts":"Līdaču ezera apkārtne bagāta ar sēņu un ogu vietām. Atpūties lapenē ar iekārtotu ugunskura vietu"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               28.111824844864373,
+               56.177782132613345
+            ]
+         },
+         "properties":{
+            "_OBJECTID":131,
+            "Nosaukums":"Grebļa kalns",
+            "_ICON":2,
+            "Apraksts":"Pa 30 m augstā Grebļukalna virsotni iet 3km gara pastaigu taka no kuras paveras fantastisks skats uz abās pusēs esošajiem ezeriem.  Uz unikālās osveida reljefa formas augošie skujkoku meži  rada dzīvesvietu Latvijā aizsargājamām dzīvnieku un augu sugām. Grebļukans veidojies pirms vairākiem miljoniem gadu un tā pakājē ir iekārtota atpūtas vieta ar lapeni un ugunskura vietu. Pierobežas zona"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.73033081708172,
+               57.622988994970456
+            ]
+         },
+         "properties":{
+            "_OBJECTID":132,
+            "Nosaukums":"Atpūtas vieta pie Gaujas",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie Gaujas."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.16050233115118,
+               57.5770843424051
+            ]
+         },
+         "properties":{
+            "_OBJECTID":133,
+            "Nosaukums":"Atpūtas vieta pie Salaiņa ezera",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie ezera."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.97488237320175,
+               57.43123811453381
+            ]
+         },
+         "properties":{
+            "_OBJECTID":134,
+            "Nosaukums":"Atpūtas vietas pie Niedrāja ezera",
+            "_ICON":2,
+            "Apraksts":"Vairākas labiekārtotas atpūtas vietas pie Niedrāja ezera, nodalītas nelielas peldvietas ar laipām u.c. Ezers apbraucams ar riteni."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.971127444958597,
+               57.43570879721301
+            ]
+         },
+         "properties":{
+            "_OBJECTID":135,
+            "Nosaukums":"Atpūtas vietas pie Niedrāja ezera",
+            "_ICON":2,
+            "Apraksts":"Vairākas labiekārtotas atpūtas vietas pie Niedrāja ezera, nodalītas nelielas peldvietas ar laipām u.c. Ezers apbraucams ar riteni."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               22.107402192219695,
+               57.364014179902654
+            ]
+         },
+         "properties":{
+            "_OBJECTID":136,
+            "Nosaukums":"Atpūtas vieta \"Tikšanās vieta\"",
+            "_ICON":2,
+            "Apraksts":"Mednieku tikšanās vieta"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.661681481080905,
+               57.43867479776304
+            ]
+         },
+         "properties":{
+            "_OBJECTID":137,
+            "Nosaukums":"Bušnieki",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.817926801429053,
+               57.12600391021351
+            ]
+         },
+         "properties":{
+            "_OBJECTID":138,
+            "Nosaukums":"Melnais dīķis",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               22.049395040426475,
+               57.10686445348898
+            ]
+         },
+         "properties":{
+            "_OBJECTID":139,
+            "Nosaukums":"Zārdava",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.72298611232742,
+               57.3392829526648
+            ]
+         },
+         "properties":{
+            "_OBJECTID":140,
+            "Nosaukums":"Atpūtas vieta pie Pātraža ezera",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie meža ezera. Ezerā ierīkota laipa."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               22.105547552043674,
+               56.47933166202694
+            ]
+         },
+         "properties":{
+            "_OBJECTID":141,
+            "Nosaukums":"Atpūtas vieta \"Ventmala\"",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta Ventas upes krastā"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.388511095703677,
+               56.33138826866997
+            ]
+         },
+         "properties":{
+            "_OBJECTID":142,
+            "Nosaukums":"Atpūtas vieta pie Krūtes pilskalna",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta Bārtas upes un Vārtājas upes ietekā"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               27.08509891047936,
+               57.281746643195106
+            ]
+         },
+         "properties":{
+            "_OBJECTID":143,
+            "Nosaukums":"Ūdenstūristu nakšņošanas vieta pie Pededzes",
+            "_ICON":2,
+            "Apraksts":"Atpūtas vieta pie Pededzes upes. Laivotāju pieturvieta."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               23.696589092369322,
+               56.83610785225284
+            ]
+         },
+         "properties":{
+            "_OBJECTID":144,
+            "Nosaukums":"ZKV-atpūtas vieta piecu ceļu krustā",
+            "_ICON":2,
+            "Apraksts":"Ziemassvētku kauju vietā atpūties koka lapenē ar galdu, soliem un iekārtotu ugunskura vietu."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               22.59449538958887,
+               57.62524126033151
+            ]
+         },
+         "properties":{
+            "_OBJECTID":145,
+            "Nosaukums":"Pludmale no Melnsila līdz Ģipkai",
+            "_ICON":2,
+            "Apraksts":"Pludmale"
+         }
+      }
+   ]
+}

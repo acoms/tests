@@ -1,0 +1,408 @@
+{
+  "layer_name": "Dabas takas",
+  "layer_group": "Info ",
+  "layer_type": "info",
+   "type":"FeatureCollection",
+   "features":[
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.70113245864411,
+               57.42396927565545
+            ]
+         },
+         "properties":{
+            "_OBJECTID":1,
+            "Nosaukums":"Taka ap Luksta ezeru",
+            "_ICON":3,
+            "Apraksts":"Pastaigu taka ap ezeru."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               24.488896069085627,
+               57.65050843005156
+            ]
+         },
+         "properties":{
+            "_OBJECTID":2,
+            "Nosaukums":"Ķirbižu meža taka",
+            "_ICON":3,
+            "Apraksts":"Taka gar Vitrupes krastiem ved cauri upes izgrauztai, dziļai, kokiem apaugušai ielejai. Ejot pa taku var iepazīties ar Ķirbižiem raksturīgo augu un koku valsti, aplūkot 4.lielāko dižozolu Limbažu pusē - Vālodzes dižozolu - 6,5 m apkārtmērā. Upes labajā krastā, pie tā sauktā vīna pagrabiņa un kreisajā krastā netālu no Meža muzeja, atklājas ainaviski skati uz ieleju un Vitrupi. Taka upes labajā krastā iet pa ielejas augšmalu, kreisajā – daļēji gar pašu upes krastu, daļēji pa ielejas augšmalu. Takas vidusdaļā upe jāšķērso brienot, savukārt vasarā taka izejama jebkuros laika apstākļos, izņemot pāris 5-10m garus mitrākus posmus.\r\n"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.822756565049872,
+               56.105519765475094
+            ]
+         },
+         "properties":{
+            "_OBJECTID":3,
+            "Nosaukums":"Gārsenes parks",
+            "_ICON":3,
+            "Apraksts":"Ainaviska dabas taka Gārsenes meža parkā gar upes krastiem, atpūtas un piknika vietas"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.98980024872293,
+               56.13198490596358
+            ]
+         },
+         "properties":{
+            "_OBJECTID":4,
+            "Nosaukums":"Upursala Cirīšu ezerā (Cirišs)",
+            "_ICON":3,
+            "Apraksts":"Dabas taka uz Upursalas Cirīša ezerā, kur nokļūšana ar plostu vai laivu. Upursalā KP Upurkalns un ainaviskas dabas vērošana odu pavadībā"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.368441248481247,
+               57.81138288098583
+            ]
+         },
+         "properties":{
+            "_OBJECTID":5,
+            "Nosaukums":"Jeru meža taka",
+            "_ICON":3,
+            "Apraksts":"Taka ved cauri mežam uz skatu torni purva malā. Takā apskatāma Nāzara priede – priede, pie kuras 1905. gadā nošauts dumpinieks, pati priede – ekoloģiskais koks ar dzilnu kaltiem dobumiem, nokaltusi. Melnalkšņu dumbrājs - slīkšņa ar cūkaušiem un puplakšiem. Oleru purvs no skatu torņa – pārejas un sūnu purvs, kas izveidojies nolaista ezera vietā. Papildus objekti blakus takai, pieejami pa ceļu – Oleru muižas komplekss, Krustakmens, Oleru muižas kapi."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.1603087333674,
+               57.12799902749168
+            ]
+         },
+         "properties":{
+            "_OBJECTID":6,
+            "Nosaukums":"Līgatnes upes krasts",
+            "_ICON":3,
+            "Apraksts":"Gleznaina, akmeņiem un dažāda vecuma kokiem bagāta pastaigu vieta pa Līgatnes upes gravām un  nogāzēm, kur iespējams ieskatīties bebru ģimeņu ikdienas rosībā, kā arī vērot putnus."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               24.927313776103688,
+               57.6797402030042
+            ]
+         },
+         "properties":{
+            "_OBJECTID":7,
+            "Nosaukums":"Purezera taka",
+            "_ICON":3,
+            "Apraksts":"Apļveida taka izveidota ap Purezeru. Ejot pa to, paveras gleznaini purva ezera skati. Mitrākās vietās ierīkotas laipas un tiltiņi. Ezera pretējos galos ir divas atpūtas platformas. Uz taku var nokļūt vai nu no Puikules centra pa mazpulku iezīmēto 4 km garo taku, vai pa apmēram 700 m garu marķētu taciņu no stāvlaukuma meža ceļa \"Riekstu trase\" malā. Taka izejama jebkuros laika apstākļos, ieteicams lietot mitruma necaurlaidīgus apavus."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               24.63932232221225,
+               57.74142606218396
+            ]
+         },
+         "properties":{
+            "_OBJECTID":8,
+            "Nosaukums":"Niedrāju-Pilkas purvs",
+            "_ICON":3,
+            "Apraksts":"Taka pa diviem radiāli vērstiem stariem ved uz purva salu, kurā pie nelieliem purva ezeriņiem  izvietota skatu platforma. Takas sākums un beigas atrodas pie bijušā Smiltenes - Valmieras - Ainažu šaursliežu dzelzceļa uzbēruma, kas Niedrāju - Pilkas purvu šķērso DA - ZR virzienā."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               24.753968348789158,
+               57.88108384132238
+            ]
+         },
+         "properties":{
+            "_OBJECTID":9,
+            "Nosaukums":"Planču purva taka",
+            "_ICON":3,
+            "Apraksts":"Planču jeb Janīšu-Dainas purvs ir neskarts augstais purvs ar izteiktu ciņu-lāmu kompleksu. Takas laipas ved uz skatu platformu. Izveidoti stendi Braila rakstā."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               22.157072029555422,
+               57.359110430992075
+            ]
+         },
+         "properties":{
+            "_OBJECTID":10,
+            "Nosaukums":"Vasenieku purva taka",
+            "_ICON":3,
+            "Apraksts":"Purva dabas taka 4 km "
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               23.21517860245342,
+               57.18076084960728
+            ]
+         },
+         "properties":{
+            "_OBJECTID":11,
+            "Nosaukums":"Vecupes taka",
+            "_ICON":3,
+            "Apraksts":"Caur mežainajām jūrmalas kāpām dēļu laipa no Rojas–Kolkas šosejas aizvedīs tevi līdz jūrai. Pie jūras atpūties piknika vietā ar galdu, soliem un iekārtotu ugunskura vietu."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               23.357573120134305,
+               57.04495241554088
+            ]
+         },
+         "properties":{
+            "_OBJECTID":12,
+            "Nosaukums":"Lāčupes taka līdz jūrai",
+            "_ICON":3,
+            "Apraksts":"Caur mežainajām jūrmalas kāpām dēļu laipa aizvedīs tevi uz jūru. Atpūtai uzstādīti soliņi un ģērbtuves."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               23.223073411293512,
+               57.1723599706894
+            ]
+         },
+         "properties":{
+            "_OBJECTID":13,
+            "Nosaukums":"Engures taka līdz jūrai",
+            "_ICON":3,
+            "Apraksts":"Caur mežainajām jūrmalas kāpām no stāvlaukuma dēļu laipa aizvedīs tevi uz jūru. Pie jūras atpūties piknika vietā ar galdu, soliem un ģērbtuvi."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               23.226921007046656,
+               57.168892384233914
+            ]
+         },
+         "properties":{
+            "_OBJECTID":14,
+            "Nosaukums":"Jūriņas taka",
+            "_ICON":3,
+            "Apraksts":"Caur mežainajām jūrmalas kāpām  dēļu laipa tevi aizvedīs uz jūru. Pie jūras atpūties piknika vietā ar galdu, soliem un ģērbtuvi."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               23.259801953356146,
+               57.08713213756323
+            ]
+         },
+         "properties":{
+            "_OBJECTID":15,
+            "Nosaukums":"Plieņciema kāpas taka",
+            "_ICON":3,
+            "Apraksts":"Dēļu laipa caur vairāk nekā 200 gadu vecu priežu mežu tevi aizvedīs uz jūru. Atpūties piknika vietā ar galdu, soliem un ģērbtuvi."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               22.767763257260185,
+               57.01779842218906
+            ]
+         },
+         "properties":{
+            "_OBJECTID":16,
+            "Nosaukums":"Čužu purva dabas taka",
+            "_ICON":3,
+            "Apraksts":"Taka tevi vedīs gar Latvijā vienīgo krūmu čužu audzi un kaļķiežu ieguves karjeriem. Veldzējies ar avotu ūdeni, baudi purva augu daudzveidību. Atpūties koka lapenē ar galdu, soliem un iekārtotu ugunskura vietu. "
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               23.017920680740644,
+               56.71656830163397
+            ]
+         },
+         "properties":{
+            "_OBJECTID":17,
+            "Nosaukums":"Kartavkalna dabas taka",
+            "_ICON":3,
+            "Apraksts":"Caur dižo lapegļu aleju taka tevi vedīs uz Zemgaļu pilskalnu. Apskati senlatviešu apmetni ar īstu guļbaļķu sētu. Atpūties kādā no piknika vietām. Bērnu priekam – laukums ar šūpolēm un kāpelēšanas elementiem."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.94623072405625,
+               56.717541838165516
+            ]
+         },
+         "properties":{
+            "_OBJECTID":18,
+            "Nosaukums":"Tīrumnieku purva taka",
+            "_ICON":3,
+            "Apraksts":"Pa gleznaino Tīrumnieku purvu līdz purva ezeriņam tevi vedīs laipveida taka, pie ezera vari piestāt atpūtas terasēs, kur izvietoti soliņi. Nostāk no ezera atpūties lapenē ar ugunskura vietu"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.046936260107486,
+               57.70296875042931
+            ]
+         },
+         "properties":{
+            "_OBJECTID":19,
+            "Nosaukums":"Biotopu taka pie Zīles (Ziemeļgauja)",
+            "_ICON":3,
+            "Apraksts":"Taka pa Gaujmalas biotopiem, pavasaros applūst."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.608116107842136,
+               57.818753468863235
+            ]
+         },
+         "properties":{
+            "_OBJECTID":20,
+            "Nosaukums":"Kārķu Lustiņdruvas taka",
+            "_ICON":3,
+            "Apraksts":"Vietējo iedzībvotāju bieži apmeklēta teritorija Kārķos."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.97164699728137,
+               57.43218136104264
+            ]
+         },
+         "properties":{
+            "_OBJECTID":21,
+            "Nosaukums":"Atpūtas vietas pie Niedrāja ezera",
+            "_ICON":3,
+            "Apraksts":"Vairākas labiekārtotas atpūtas vietas pie Niedrāja ezera, nodalītas nelielas peldvietas ar laipām u.c. Ezers apbraucams ar riteni."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               22.855718749422635,
+               57.458135949841676
+            ]
+         },
+         "properties":{
+            "_OBJECTID":22,
+            "Nosaukums":"Kaltenes kalvas",
+            "_ICON":3,
+            "Apraksts":"Dabas taka"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.712355112326406,
+               57.628507571885905
+            ]
+         },
+         "properties":{
+            "_OBJECTID":23,
+            "Nosaukums":"Strenču pilsētas meža taka",
+            "_ICON":3,
+            "Apraksts":"Marķēta taka gar Gauju un vecupēm."
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.38277510378117,
+               56.28070098937951
+            ]
+         },
+         "properties":{
+            "_OBJECTID":24,
+            "Nosaukums":"Dabas liegums \"Dunika\"",
+            "_ICON":3,
+            "Apraksts":"Dabas taka- laipas Dunikas purvā ar atpūtas vietām"
+         }
+      },
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               22.627869900858514,
+               57.57686398783602
+            ]
+         },
+         "properties":{
+            "_OBJECTID":25,
+            "Nosaukums":"Baltā kāpa",
+            "_ICON":3,
+            "Apraksts":"Dabas taka"
+         }
+      }
+   ]
+}
