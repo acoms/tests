@@ -17,8 +17,8 @@
             "Nosaukums":"Lielauces ezera laivu bāze",
             "_ICON":7,
             "Apraksts":"Šis ezers visvairāk priecēs makšķerniekus un, kaut arī tajā mīt parastās Latvijas ezeru zivju sugas, iespējas izvilkt labus lomus ir lielas, jo katru gadu zivju krājumi tiek papildināti.",
-            "URL":"8",
-            "Aktivitātes":"1;4;5;7;6"
+            "_URL":"8",
+            "_ACT":"1;4;5;7;6"
          }
       },
       {
@@ -34,8 +34,8 @@
             "Nosaukums":"Pokaiņu mežs",
             "_ICON":7,
             "Apraksts":"Galvenais iemesls, kādēļ šo vietu iecienījuši apmeklētāji, ir brīnumainie nostāsti par Pokaiņu mežu. Te, sapulcējušies grupās, kaudzēs, akmens upēs un valnīšos, atrodas slavenie Pokaiņu akmeņu krāvumi.",
-            "URL":"13",
-            "Aktivitātes":"4;22;3;19"
+            "_URL":"13",
+            "_ACT":"4;22;3;19"
          }
       },
       {
@@ -51,8 +51,8 @@
             "Nosaukums":"Zebrus ezera laivu bāze",
             "_ICON":7,
             "Apraksts":"Zebrus ezers ir ideāla vieta pilnvērtīgai atpūtai pie ūdens. Te izveidots atpūtas komplekss, kas piedāvā iespēju aktīvai atpūtai gan ģimenēm, gan organizācijām – sākot ar makšķerēšanu un zivju zupas vārīšanu līdz pat sporta un izklaides pasākumiem.",
-            "URL":"10",
-            "Aktivitātes":"19;14;6;4;1;15;5;11;16"
+            "_URL":"10",
+            "_ACT":"19;14;6;4;1;15;5;11;16"
          }
       },
       {
@@ -68,8 +68,8 @@
             "Nosaukums":"Tērvetes dabas parks",
             "_ICON":7,
             "Apraksts":"Tērvetes dabas parks ir labākā un draudzīgākā vieta ģimenei ar bērniem. Iecienītākās parka vietas ir Pasaku mežs, Rotaļu laukums un Rūķīšu mežs. Tur atrodas arī unikālais priežu sils, kurā majestātiskajiem kokiem mūža ilgums tuvojas 300 gadiem.",
-            "URL":"1",
-            "Aktivitātes":"17;18;14;23;11;22;21;12;3;15;19;4"
+            "_URL":"1",
+            "_ACT":"17;18;14;23;11;22;21;12;3;15;19;4"
          }
       },
       {
@@ -85,8 +85,8 @@
             "Nosaukums":"Kalsnavas arborētums",
             "_ICON":7,
             "Apraksts":"Kalsnavas abrobētumā vari aplūkot lielāko dekoratīvo koku un krūmu kolekciju Latvijas austrumdaļā.",
-            "URL":"14",
-            "Aktivitātes":"18;23;22;3;13"
+            "_URL":"14",
+            "_ACT":"18;23;22;3;13"
          }
       },
       {
@@ -102,8 +102,8 @@
             "Nosaukums":"Tērvetes ūdenskrātuve",
             "_ICON":7,
             "Apraksts":"Ezers, kas izveidots, uzpludinot Tērvetes upītes pļavas, aizņem 70 ha lielu platību. Atpūties kādā no piknika vietām ar galdiem, soliem, ugunskura vietām. Vēro putnus, makšķerē uz kādas no 20 laipām, baudi atpūtu uz ūdens peldoties vai braucot ar laivu.",
-            "URL":"9",
-            "Aktivitātes":"7;4;12;15;16;11;6;8;14;5;3"
+            "_URL":"9",
+            "_ACT":"7;4;12;15;16;11;6;8;14;5;3"
          }
       },
       {
@@ -119,8 +119,8 @@
             "Nosaukums":"Jaunmoku pils",
             "_ICON":7,
             "Apraksts":"Jaunmoku pils ir lieliska atpūtas vieta, kas piedāvā visdažādākās brīvā laika pavadīšanas iespējas. Te pieejamas telpas konferencēm, semināriem, svinībām – kāzu organizēšanai tiek piedāvāta īpaša programma.",
-            "URL":"12",
-            "Aktivitātes":"13;11;12;21;22;23;10;16;17;3;18;14;4"
+            "_URL":"12",
+            "_ACT":"13;11;12;21;22;23;10;16;17;3;18;14;4"
          }
       },
       {
@@ -136,8 +136,8 @@
             "Nosaukums":"Kaņiera ezera laivu bāze",
             "_ICON":7,
             "Apraksts":"Pavadi dienu makšķerējot vai vērojot putnus atjaunotajā Kaņiera ezera laivu bāzē ar putnu vērošanas torni.",
-            "URL":"5",
-            "Aktivitātes":"6;5;8;3"
+            "_URL":"5",
+            "_ACT":"6;5;8;3"
          }
       },
       {
@@ -153,8 +153,8 @@
             "Nosaukums":"Vijciema čiekurkalte",
             "_ICON":7,
             "Apraksts":"Apmeklē Vijciema čiekurkalti un paša acīm pārliecinies, ka arī šodien sēklas jaunu mežu audzēm tiek iegūtas, izmantojot tās pašas vairāk nekā 100 gadu vecās iekārtas. Vijciema čiekurkalte ir viena no vecākajām Latvijā, tapusi 1895. gadā.",
-            "URL":"15",
-            "Aktivitātes":"2;22;3"
+            "_URL":"15",
+            "_ACT":"2;22;3"
          }
       },
       {
@@ -170,8 +170,8 @@
             "Nosaukums":"Atpūtas un tūrisma centrs \"Ezernieki\"",
             "_ICON":7,
             "Apraksts":"Salas ezera krastā izveidots tūrisma un rekreācijas centrs „Ezernieki”. Šī ir lieliska izvēle semināru, banketa vai sporta spēļu rīkošanai, kā arī nesteidzīgai atpūtai ar ģimeni vai draugu bariņā, vērojot putnus, makšķerējot, ogojot vai braucot ar laivu.",
-            "URL":"7",
-            "Aktivitātes":"8;16;12;13;10;11;4;19;9;5;3;6"
+            "_URL":"7",
+            "_ACT":"8;16;12;13;10;11;4;19;9;5;3;6"
          }
       },
       {
@@ -187,8 +187,8 @@
             "Nosaukums":"Atpūtas un tūrisma centrs \"Spāre\"",
             "_ICON":7,
             "Apraksts":"Tūrisma un rekreācijas centrs „Spāre” ir vieta Gulbju ezera krastā, kurā atradīsiet mieru ģimeniskai atpūtai ar ērtām nakšņošanas iespējām.",
-            "URL":"6",
-            "Aktivitātes":"12;10;15;8;1;19;13;14;6;5;9;11;3;4"
+            "_URL":"6",
+            "_ACT":"12;10;15;8;1;19;13;14;6;5;9;11;3;4"
          }
       },
       {
@@ -204,8 +204,8 @@
             "Nosaukums":"Gulbju ezers",
             "_ICON":7,
             "Apraksts":"Ezerā ir  pieejama arī laivu un ūdensvelosipēdu noma. Šeit atrodas labiekārtotas peldvietas un piknika vietas tiem, kas vēlas izbaudīt nesteidzīgu izklaidi.",
-            "URL":"6",
-            "Aktivitātes":"12;10;15;8;1;19;13;14;6;5;9;11;3;4"
+            "_URL":"6",
+            "_ACT":"12;10;15;8;1;19;13;14;6;5;9;11;3;4"
          }
       }
    ]
