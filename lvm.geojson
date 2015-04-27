@@ -1,7 +1,7 @@
 {
   "layer_name": "Tūrisma objekti",
   "layer_group": "Info ",
-  "layer_type": "info",
+  "layer_type": "lvminfo",
   "type":"FeatureCollection",
    "features":[
       {
